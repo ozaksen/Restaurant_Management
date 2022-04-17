@@ -1,2 +1,2 @@
 # Restaurant_Management
-Restaurant Management backend application using .net core and EntityFramework
+In this project, I created a backend application using SignalR, .Net Core, ASP.NET Identity, and Entity Framework
